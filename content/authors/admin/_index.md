@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Pre-Final Year EE and CSE Undergraduate
+role: Pre-Final Year Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,26 @@ organizations:
   url: "http://iitk.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Undergraduate Researcher in Probabilistic Machine Learning
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
+- Probabilistic Machine Learning
+- Approximate Inference
+- Bayesian Nonparametrics
+- Stein's Method for ML
+- Gradient Based MCMC
+- Representation Learning
+- Deep Generative Models
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor's Exchange Student
+    institution: Aalto University, Finland
+    year: 2019
+  - course: BTech in Electrical Engineering and Computer Science and Engineering
+    institution: Indian Institute of Technology Kanpur, India
+    year: 2017-Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aniketd@iitk.ac.in'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,6 +72,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Pre-final Year Undergraduate at Indian Institute of Technology, Kanpur majoring in Electrical Engineering and Computer Science and Engineering, broadly interested in the areas of Probabilistic Machine Learning and Approximate Inference, which I'm exploring as an Undergraduate Researcher under the mentorship of [Prof. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My sophomore year research work centered around Representation Learning (with focus on Disentangled Representations) and Deep Generative Models for high dimensional sequential data. Under the supervision of [Prof. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/) and [Prof. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/), I worked on developing hierarchical probabilistic models for joint video and image generation and disentangled representation learning for videos.
+
+Lately, I've been fascinated by the many applications of Stein's Method in Machine Learning, ranging from Stein Variational Gradient Descent and Stein Point MCMC to Spectral Stein Gradient Estimation for Implicit Models. I'm currently working on this subject under Prof. Piyush Rai's guidance, trying to investigate application domains such as Amortized MCMC, Nonparametric KL Minimization, and optimization in Natural Parameter Space, where employing Stein's method may lead to improvements. I'm also very interested in the underlying theory of Gradient-Based MCMC Algorithms that function by simulating continuous deterministic or stochastic dynamics, such as (SG)HMC and (SG)LD, and their Riemmanian variants.
+
+I've had some exposure to Optimization, though I'm much less acquainted with the subject than I'd like to be. To this end, I'm trying to explore the area of Nonparametric Stochastic Optimization and Online Kernel Learning under the supervision of [Prof. Ketan Rajawat](http://home.iitk.ac.in/~ketan/). I hope to explore Optimization and Learning Theory rigorously in the future.
